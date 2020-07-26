@@ -7,8 +7,8 @@
 ### ⚡ Interest
 - **Algorithm, Problem Solving ( C++ )**
 - **Web Front End ( HTML, CSS, JavaScript )**
-- Web Back End ( Flask(Python) )
-- Document Design ( TeX )
+- Web Back End ( Flask ( Python ) )
+- Document Design ( TeX ), Drawing, OpenCV ... I'm interested in various fields
 - ... 
 
 
