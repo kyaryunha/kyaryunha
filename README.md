@@ -6,7 +6,7 @@
 
 ### ⚡ Interest
 - **Algorithm, Problem Solving ( C++ )**
-- **Web Front End ( Html, CSS, Javascript )**
+- **Web Front End ( HTML, CSS, JavaScript )**
 - Web Back End ( Flask(Python) )
 - Document Design ( TeX )
 - ... 
