@@ -9,7 +9,7 @@
 - **Web Front End ( HTML, CSS, JavaScript )**
 - Web Back End ( Flask ( Python ) )
 - Document Design ( TeX )
-- **Drawing ( Clip Studio ) **
+- **Drawing ( Clip Studio )**
 - ... ( I'm interested in various fields )
 
 
