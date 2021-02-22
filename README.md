@@ -4,7 +4,7 @@
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving ( C++ )**
-- **Web Front End ( HTML, CSS, JavaScript, SCSS, gulp )**
+- **Web Front End ( HTML, CSS, JavaScript, SCSS, node.js, canvas )**
 - Web Back End ( Flask ( Python ) )
 - Deploy ( AWS Lightsail, S3, Github Pages )
 - Document ( TeX ) 
