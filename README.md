@@ -2,16 +2,16 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyaryunha)](https://hits.seeyoufarm.com)
 
-### ⚡ Interest
+### ⚡ Skills 
 - **Algorithm, Problem Solving ( C++ )**
 - **Web Front End ( HTML, CSS, JavaScript, SCSS, gulp )**
 - Web Back End ( Flask ( Python ) )
-- Document Design ( TeX )
-- **Drawing ( Clip Studio )**
-- ... ( I'm interested in various fields )
+- Deploy ( AWS Lightsail, S3, Github Pages )
+- Document ( TeX ) 
+- https://stackshare.io/kyaryunha/my-stack
 
-### ⚡ Now Studying
-- Webpack, Express 
+### ⚡ Now Learning 
+- React, Express, Webpack
 
 ### ⚡ My CV 
 - http://kyaryunha.com/cv
