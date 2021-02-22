@@ -11,7 +11,7 @@
 - https://stackshare.io/kyaryunha/my-stack
 
 ### ⚡ Now Learning 
-- React, Express, Webpack
+- ** React, Express, Webpack ** 
 
 ### ⚡ My CV 
 - http://kyaryunha.com/cv
