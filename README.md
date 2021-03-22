@@ -4,14 +4,12 @@
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving ( C++ )**
-- **Web Front End ( HTML, CSS, JavaScript, SCSS, node.js, canvas )**
-- Web Back End ( Flask ( Python ) )
+- **Web Front End ( React, Next.js, Emotion, SWR, HTML, CSS, JavaScript, SCSS, node.js, canvas )**
+- Web Back End ( Express(Javascript), Flask ( Python ) )
 - Deploy ( AWS Lightsail, S3, Github Pages )
 - Document ( TeX ) 
 - https://stackshare.io/kyaryunha/my-stack
-
-### ⚡ Now Learning 
-- **React, Express, Webpack** 
+ 
 
 ### ⚡ My CV 
 - http://kyaryunha.com/cv
