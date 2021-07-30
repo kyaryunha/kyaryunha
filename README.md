@@ -20,11 +20,15 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 - 2020.06 ~ 2020.12    Naver, Frontend Intern
 - 2020.04 ~ 2020.06   Atom & Bit, Web Intern
 - 2020.01 ~ 2020.03   7meerkat, Web Intern
-
+- 2019.06 ~ 2019.12    Software Maestro 10th 
+- 
 ### 🏫 Education
 
 - **2019.03 ~ CURRENT    Hanyang University, CSE 19**
 - 2020.07 ~ 2021.06    Leave of absence 
+
+### 🔈 Presentation
+- 2019.11 TeX Book Design Using memoir and expl3: Page Styles and Title, KTUG Workshop
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving (C++)**
