@@ -23,7 +23,7 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 
 ### 🏫 Education
 
-- **2019.03 ~ CURRENT    Hanyang University CSE 19, 2nd grade**
+- **2019.03 ~ CURRENT    Hanyang University, CSE 19**
 - 2020.07 ~ 2021.06    Leave of absence 
 
 ### ⚡ Skills 
