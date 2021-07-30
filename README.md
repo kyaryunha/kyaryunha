@@ -28,7 +28,7 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 - 2020.07 ~ 2021.06    Leave of absence 
 
 ### 🔈 Presentation
-- 2019.11 TeX Book Design Using memoir and expl3: Page Styles and Title, KTUG Workshop
+- 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving (C++)**
