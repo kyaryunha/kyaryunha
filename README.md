@@ -36,7 +36,7 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 ### ⚡ Skills 
 - **Algorithm, Problem Solving (C++)**
 - **Web Front End (React, Next.js, Emotion, SWR, HTML, CSS, JavaScript, SCSS, node.js, canvas)**
-- Web Back End (Express(Javascript), Flask(Python))
+- **Web Back End (Express(Javascript), Flask(Python))**
 - Database (MySQL, MongoDB)
 - Deploy (AWS Lightsail, S3, Github Pages)
 - Document (TeX) 
@@ -58,7 +58,7 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 ### 📊 Rating
 - solved.ac - Diamond 5 (Algorithm)
 - codeforces - Blue (Algorithm)
-- LoL - Bronze 4 (Game/Jungle)
+- LoL - Silver 3 (Game/Jungle, Support)
 
 ### 🎴 Github Card's for Fun ~ 
 
