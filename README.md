@@ -3,7 +3,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyaryunha)](https://hits.seeyoufarm.com)
 
-I'm student at Hanyang CSE, and I'm working at EmoticBox.
+<!-- I'm student at Hanyang CSE, and I'm working at EmoticBox. -->
 
 ### 🥈 Competition / Awards
 - 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
