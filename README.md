@@ -24,11 +24,11 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 
 ### 🏫 Education
 
-- **2019.03 ~ CURRENT    Hanyang University**
+<!-- - **2019.03 ~ CURRENT    Hanyang University**
   - Bachelor of Computer Software
   - Barami (Engineering Club) Vice President(2020)
 - 2016.03 ~ 2019.02    Chungbuk Science High School
-  - EXE (Computer Club) President (2018)
+  - EXE (Computer Club) President (2018) -->
 
 ### 🔈 Presentation
 - 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
@@ -42,17 +42,17 @@ I'm student at Hanyang CSE, and I'm working at EmoticBox.
 - Document (TeX) 
 - https://stackshare.io/kyaryunha/stack 
 
-### 👥 ExtraCurricular Activities
+<!-- ### 👥 ExtraCurricular Activities
 - Barami, Hanyang Univ's engineering club
   - Member (2019), Vice President (2020)
   - Holds a work exhibition every November
   - Set up the 2020 exhibition jekyll blog site https://hyu-barami.github.io/
-
+ -->
 
 ### ✉️ Contact
 
 - Email: kyaryunha@naver.com
-- CV: [http://kyaryunha.com:81/cv](http://kyaryunha.com:81/cv) - It often die because I'm lazy... 
+<!-- - CV: [http://kyaryunha.com:81/cv](http://kyaryunha.com:81/cv) - It often die because I'm lazy...  -->
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
 ### 📊 Rating
