@@ -24,11 +24,11 @@
 
 ### 🏫 Education
 
-<!-- - **2019.03 ~ CURRENT    Hanyang University**
+- **2019.03 ~ CURRENT    Hanyang University**
   - Bachelor of Computer Software
   - Barami (Engineering Club) Vice President(2020)
 - 2016.03 ~ 2019.02    Chungbuk Science High School
-  - EXE (Computer Club) President (2018) -->
+  - EXE (Computer Club) President (2018)
 
 ### 🔈 Presentation
 - 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
@@ -42,12 +42,12 @@
 - Document (TeX) 
 - https://stackshare.io/kyaryunha/stack 
 
-<!-- ### 👥 ExtraCurricular Activities
+### 👥 ExtraCurricular Activities
 - Barami, Hanyang Univ's engineering club
   - Member (2019), Vice President (2020)
   - Holds a work exhibition every November
   - Set up the 2020 exhibition jekyll blog site https://hyu-barami.github.io/
- -->
+
 
 ### ✉️ Contact
 
@@ -58,7 +58,7 @@
 ### 📊 Rating
 - solved.ac - Diamond 5 (Algorithm)
 - codeforces - Blue (Algorithm)
-- LoL - Silver 3 (Game/Jungle, Support)
+- LoL - Silver 2 (Game/Jungle, Support)
 
 ### 🎴 Github Card's for Fun ~ 
 
