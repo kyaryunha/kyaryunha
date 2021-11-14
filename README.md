@@ -6,10 +6,10 @@
 <!-- I'm student at Hanyang CSE, and I'm working at EmoticBox. -->
 
 ### 🥈 Competition / Awards
+- **2021 ACM-ICPC Seoul Regional**, (**16rd**/73 Teams)
 - 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
-- 2020 Google Codejam IO for Women, Top 150th(Earned Ticket) (**115th**/2500 Participants)
-- 2020 UCPC, 4th Award (**15th**/169 Teams)
-- **2019 ACM ICPC Seoul Regional**, (**23rd**/86 Teams)
+- **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
+- **2020 UCPC, 4th Award** (**15th**/169 Teams)
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
 - **2017 Korean Olympiad in Informatics, Silver Award** (**29th**/200 Participants) 
 
