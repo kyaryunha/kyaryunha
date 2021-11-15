@@ -7,9 +7,9 @@
 
 ### 🥈 Competition / Awards
 - **2021 ACM-ICPC Seoul Regional** (**16th**/73 Teams)
-- 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
-- **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
 - **2020 UCPC, 4th Award** (**15th**/169 Teams)
+- **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
+- 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
 - **2017 Korean Olympiad in Informatics, Silver Award** (**29th**/200 Participants) 
 
@@ -22,6 +22,9 @@
 - 2020.01 ~ 2020.03   7meerkat, Web Intern
 - 2019.06 ~ 2019.12    Software Maestro 10th 
 
+### 🔈 Presentation
+- 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
+
 ### 🏫 Education
 
 - **2019.03 ~ CURRENT    Hanyang University**
@@ -30,8 +33,11 @@
 - 2016.03 ~ 2019.02    Chungbuk Science High School
   - EXE (Computer Club) President (2018)
 
-### 🔈 Presentation
-- 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
+### 👥 ExtraCurricular Activities
+- Barami, Hanyang Univ's engineering club
+  - Member (2019), Vice President (2020)
+  - Holds a work exhibition every November
+  - Set up the 2020 exhibition jekyll blog site https://hyu-barami.github.io/
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving (C++)**
@@ -41,12 +47,6 @@
 - Deploy (AWS Lightsail, S3, Github Pages)
 - Document (TeX) 
 - https://stackshare.io/kyaryunha/stack 
-
-### 👥 ExtraCurricular Activities
-- Barami, Hanyang Univ's engineering club
-  - Member (2019), Vice President (2020)
-  - Holds a work exhibition every November
-  - Set up the 2020 exhibition jekyll blog site https://hyu-barami.github.io/
 
 
 ### ✉️ Contact
