@@ -58,7 +58,7 @@
 ### 📊 Rating
 - solved.ac - Diamond 5 (Algorithm)
 - codeforces - Blue (Algorithm)
-- LoL - Silver 2 (Game/Jungle, Support)
+- LoL - Silver 2 (Season 11/Jungle, Support)
 
 ### 🎴 Github Card's for Fun ~ 
 
