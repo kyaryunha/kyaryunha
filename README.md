@@ -52,13 +52,13 @@
 ### ✉️ Contact
 
 - Email: kyaryunha@naver.com
-<!-- - CV: [http://kyaryunha.com:81/cv](http://kyaryunha.com:81/cv) - It often die because I'm lazy...  -->
+- CV: [https://kyaryunha.com](https://kyaryunha.com) 
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
 ### 📊 Rating
 - solved.ac - Diamond 5 (Algorithm)
 - codeforces - Blue (Algorithm)
-- LoL - Silver 2 (Season 11/Jungle, Support), Silver 1(Season 12/Support)
+- LoL - Silver 2 (Season 11/Jungle, Support), Silver 1 (Season 12/Support)
 
 ### 🎴 Github Card's for Fun ~ 
 
