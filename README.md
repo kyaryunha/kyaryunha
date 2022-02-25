@@ -15,7 +15,7 @@
 
 ### 🏢 Work Experience
 
-- **2021.07 ~ CURRENT Emotic Box, Backend Engineer**
+- **2021.07 ~ 2022.02 Emotic Box, Backend Engineer**
 - 2021.01 ~ 2021.06    Atom & Bit, Web Contract Worker
 - 2020.06 ~ 2020.12    Naver, Frontend Intern
 - 2020.04 ~ 2020.06   Atom & Bit, Web Intern
