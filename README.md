@@ -1,9 +1,16 @@
 ### ⚡ Hello, I'm Shin Hyun 👋
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyaryunha)](https://hits.seeyoufarm.com)
 
 <!-- I'm student at Hanyang CSE, and I'm working at EmoticBox. -->
+
+### ⚡Promotion 
+
+⚡I posted a LaTeX lecture on Inflearn. Thank you for watching.⚡
+
+Link: https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf
+
+
 
 ### 🥈 Competition / Awards
 - **2021 ACM-ICPC Seoul Regional** (**16th**/73 Teams)
