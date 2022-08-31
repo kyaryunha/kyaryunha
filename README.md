@@ -43,7 +43,7 @@ Developer who enjoys being focused
 
 ### ⚡ Skills 
 - **Algorithm, Problem Solving (C++)**
-- **Web Front End (React, Next.js, Emotion, MobX SWR, HTML, CSS, JavaScript, SCSS, node.js, canvas)**
+- **Web Front End (React, Next.js, Emotion, MobX, SWR, HTML, CSS, JavaScript, SCSS, node.js, canvas)**
 - Web Back End (**Express(Javascript)**, Flask(Python))
 - Database (**MySQL**, MongoDB)
 - Deploy (**Vercel**, AWS Lightsail, S3, Github Pages)
