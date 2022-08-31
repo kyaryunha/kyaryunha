@@ -12,7 +12,7 @@ Developer who enjoys being focused
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
 - **2017 Korean Olympiad in Informatics, Silver Award** (**29th**/200 Participants*) 
 
-\* count only finals
+\* : count only finals
 
 ### 🏢 Work Experience
 
