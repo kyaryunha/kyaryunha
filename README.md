@@ -53,13 +53,12 @@ Developer who enjoys being focused
 ### ✉️ Contact
 - Homepage: https://www.kyaryunha.com/
 - Email: kyaryunha@naver.com
-- CV: [https://kyaryunha.com](https://kyaryunha.com) 
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
 ### 📊 Rating
 - solved.ac - Diamond 4 (Algorithm)
 - codeforces - Blue (Algorithm)
-- LoL - Silver 2 (Season 11/Jungle, Support), Silver 1 (Season 12/Support)
+- LoL - Gold 4 (Season 12, Support), Silver 2 (Season 11, Jungle)
 
 
 
