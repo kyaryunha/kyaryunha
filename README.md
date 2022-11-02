@@ -10,7 +10,7 @@ Developer who enjoys being focused
 - **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
 - 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
-- **2017 Korean Olympiad in Informatics, Silver Award** (**29th**/200 Participants*) 
+- **2017 Korea Olympiad in Informatics, Silver Award** (**29th**/200 Participants*) 
 
 \* : count only finals
 
