@@ -28,14 +28,14 @@ Developer who enjoys being focused
 
 - **Hanyang University (2019.03 ~ CURRENT)**
   - Bachelor of Computer Software
-  - Barami (Engineering Club) Vice President(2020)
+  - Barami (Engineering Club) Vice President (2020)
 - Chungbuk Science High School (2016.03 ~ 2019.02)
   - EXE (Computer Club) President (2018)
 - Software Maestro 10th (2019.06 ~ 2019.12)
 
 ### 👥 ExtraCurricular Activities
 - Barami, Hanyang Univ's engineering club
-  - Member (2019), Vice President (2020)
+  - Member (2019~), Vice President (2020)
   - Holds a work exhibition every November
   - [Set up the 2020, 2021 exhibition jekyll blog site](https://hyu-barami.github.io/)
   - Lectured at C++ & Algorithm Seminar
@@ -49,9 +49,8 @@ Developer who enjoys being focused
 - Document (TeX) 
 
 
-### ✉️ Contact
-- Homepage: https://www.kyaryunha.com/
-- Email: kyaryunha@naver.com
+### ✉️ Site
+- Homepage: https://www.kyaryunha.com/ 
 - [CV(2022.12)](https://hanyang-univ.s3.ap-northeast-2.amazonaws.com/Shin_Hyun_CV_2022_12.pdf)
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
@@ -64,13 +63,4 @@ Developer who enjoys being focused
 
 ### ⚡Promotion 
 
-[Inflearn Lecture - LaTeX, 코드를 컴파일하니 pdf 문서가 만들어져요! - 입문편](https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf)
-
-
-### 🎴 Github Card's for Fun ~ 
-
-[![Shin Hyun' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyaryunha)](https://github.com/kyaryunha)
-
-![Shin Hyun' Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyaryunha)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyaryunha_cpp)](https://solved.ac/kyaryunha_cpp) 
+[Inflearn Lecture - LaTeX, 코드를 컴파일하니 pdf 문서가 만들어져요! - 입문편](https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf) 
