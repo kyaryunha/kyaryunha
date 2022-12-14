@@ -16,23 +16,22 @@ Developer who enjoys being focused
 
 ### 🏢 Work Experience
 
-- 2021.07 ~ 2022.02 Emotic Box, Backend Engineer
-- 2021.01 ~ 2021.06    Atom & Bit, Web Contract Worker
-- 2020.06 ~ 2020.12    Naver, Frontend Intern
-- 2020.04 ~ 2020.06   Atom & Bit, Web Intern
-- 2020.01 ~ 2020.03   7meerkat, Web Intern
-- 2019.06 ~ 2019.12    Software Maestro 10th 
+- Emotic Box, Backend Engineer (2021.07 ~ 2022.02)
+- Aria-Edge, Intern (2020.04 ~ 2020.06), Contract (2021.01 ~ 2021.06)
+- Naver, Frontend Intern (2020.06 ~ 2020.12)
+- 7meerkat, Intern (2020.01 ~ 2020.03)
 
 ### 🔈 Presentation
-- 2019.11 KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title
+- KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title (2019.11)
 
 ### 🏫 Education
 
-- **2019.03 ~ CURRENT    Hanyang University**
+- **Hanyang University (2019.03 ~ CURRENT)**
   - Bachelor of Computer Software
   - Barami (Engineering Club) Vice President(2020)
-- 2016.03 ~ 2019.02    Chungbuk Science High School
+- Chungbuk Science High School (2016.03 ~ 2019.02)
   - EXE (Computer Club) President (2018)
+- Software Maestro 10th (2019.06 ~ 2019.12)
 
 ### 👥 ExtraCurricular Activities
 - Barami, Hanyang Univ's engineering club
@@ -53,6 +52,7 @@ Developer who enjoys being focused
 ### ✉️ Contact
 - Homepage: https://www.kyaryunha.com/
 - Email: kyaryunha@naver.com
+- [CV(2022.12)](https://hanyang-univ.s3.ap-northeast-2.amazonaws.com/Shin_Hyun_CV_2022_12.pdf)
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
 ### 📊 Rating
