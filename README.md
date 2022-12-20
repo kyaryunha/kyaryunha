@@ -50,7 +50,7 @@ Developer who enjoys being focused
 
 
 ### ✉️ Site
-- Homepage: https://www.kyaryunha.com/ 
+- Homepage: [https://www.kyaryunha.com/ ](https://www.hyunsh.in/)
 - CV: [CV(2022.12)](https://hanyang-univ.s3.ap-northeast-2.amazonaws.com/Shin_Hyun_CV_2022_12.pdf)
 - [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
 
