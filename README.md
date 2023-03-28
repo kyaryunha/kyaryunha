@@ -4,6 +4,15 @@
 
 Developer who enjoys being focused
 
+
+### ⚡Promotion 
+
+[**(New) Inflearn Lecture - ChatGPT API 입문 강의 - 30분 만에 다국어 번역 웹 풀스택 개발하기**](https://inf.run/TTPs)
+
+
+[Inflearn Lecture - LaTeX, 코드를 컴파일하니 pdf 문서가 만들어져요! - 입문편](https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf) 
+
+
 ### 🥈 Competition / Awards
 - **2021 ACM-ICPC Seoul Regional** (**16th**/73 Teams*)
 - **2020 UCPC, 4th Award** (**15th**/169 Teams*)
@@ -61,6 +70,4 @@ Developer who enjoys being focused
 
 
 
-### ⚡Promotion 
 
-[Inflearn Lecture - LaTeX, 코드를 컴파일하니 pdf 문서가 만들어져요! - 입문편](https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf) 
