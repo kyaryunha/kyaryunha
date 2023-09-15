@@ -34,38 +34,13 @@ Developer who enjoys being focused
   - EXE (Computer Club) President (2018)
 - Software Maestro 10th (2019.06 ~ 2019.12)
 
-### 👥 ExtraCurricular Activities
-- Barami, Hanyang Univ's engineering club
-  - Member (2019~), Vice President (2020)
-  - Holds a work exhibition every November
-  - [Set up the 2020, 2021 exhibition jekyll blog site](https://hyu-barami.github.io/)
-  - Lectured at C++ & Algorithm Seminar
-
-### ⚡ Skills 
-- **Algorithm, Problem Solving (C++)**
-- Web Front End (React, Next.js, Emotion, MobX, SWR, HTML, CSS, JavaScript, SCSS, node.js, canvas)
-- **Web Back End** (**Flask(Python)**, Express(Javascript)))
-- Database (**MySQL**, MongoDB)
-- Deploy (**AWS**, Vercel, Github Pages)
-- Document (TeX) 
-
-
 ### ✉️ Site
 - Homepage: [https://www.hyunsh.in](https://www.hyunsh.in)
-- CV: [CV(2022.12)](https://hanyang-univ.s3.ap-northeast-2.amazonaws.com/Shin_Hyun_CV_2022_12.pdf)
-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyaryunha)](https://www.facebook.com/kyaryunha)
-
-### 📊 Rating
-- solved.ac - Diamond 4 (Algorithm)
-- codeforces - Blue (Algorithm)
-- LoL - Gold 4 (Season 12, Support), Silver 2 (Season 11, Jungle)
-
-
+- CV: Private URL
 
 ### ⚡Promotion 
 
 [Inflearn Lecture - ChatGPT API 입문 강의 - 30분 만에 다국어 번역기 웹 풀스택 개발하기](https://inf.run/TTPs)
-
 
 [Inflearn Lecture - LaTeX, 코드를 컴파일하니 pdf 문서가 만들어져요! - 입문편](https://www.inflearn.com/course/latex-%EC%BD%94%EB%93%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC-pdf-%EC%9E%85%EB%AC%B8?inst=865da8cf) 
 
