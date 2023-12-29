@@ -6,14 +6,23 @@ Developer who enjoys being focused
 
 
 ### 🥈 Competition / Awards
+**Algorithm**
 - **2021 ACM-ICPC Seoul Regional** (**16th**/73 Teams*)
 - **2020 UCPC, 4th Award** (**15th**/169 Teams*)
 - **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
 - 2020 Brandi CodenameB, Prize (**11st**/2300 Participants)
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
-- **2017 Korea Olympiad in Informatics, Silver Award** (**29th**/200 Participants*) 
+- **2017 Korea Olympiad in Informatics, Silver Award** (**29th**/200 Participants*)
 
+**Backend**
+- 2023 Elice API Code Challenge, Excellence Award (**5th**/700 Participants)
+- 2023 Furiosa AI Hackathon Grand Award (**1st**/9 Teams*)
+  
 \* : count only finals
+
+**Advanced to finals**
+- ICPC Seoul Regional 3 times (2019, 2021, 2022) / UCPC 3 times (2019, 2020, 2021) / NYPC 2 times (2017, 2018) / KOI 2 times (2016, 2017)
+
 
 ### 🏢 Work Experience
 - Mapia Company, Intern (2022.12 ~ 2023.06)
@@ -23,7 +32,8 @@ Developer who enjoys being focused
 - 7meerkat, Intern (2020.01 ~ 2020.03)
 
 ### 🔈 Presentation
-- KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title (2019.11)
+- [Infcon Workshop, Introduction on how to use the ChatGPT API (2023.08)](https://www.inflearn.com/conf/infcon-2023/session-detail?id=759)
+- [KTUG Workshop, TeX Book Design Using memoir and expl3: Page Styles and Title (2019.11)](http://wiki.ktug.org/wiki/wiki.php/LaTeXWorkshop/2019)
 
 ### 🏫 Education
 
