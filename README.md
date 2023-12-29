@@ -21,11 +21,14 @@ Developer who enjoys being focused
 \* : count only finals
 
 **Advanced to finals**
-- ICPC Seoul Regional 3 times (2019, 2021, 2022) / UCPC 3 times (2019, 2020, 2021) / NYPC 2 times (2017, 2018) / KOI 2 times (2016, 2017)
+- ICPC Seoul Regional 3 times (2019, 2021, 2022)
+- UCPC 3 times (2019, 2020, 2021)
+- NYPC 2 times (2017, 2018)
+- KOI 2 times (2016, 2017)
 
 
 ### 🏢 Work Experience
-- Mapia Company, Intern (2022.12 ~ 2023.06)
+- Mapia Company, Backend Intern (2022.12 ~ 2023.06)
 - Emotic Box, Backend Engineer (2021.07 ~ 2022.02)
 - Aria-Edge, Intern (2020.04 ~ 2020.06), Contract (2021.01 ~ 2021.06)
 - Naver, Frontend Intern (2020.06 ~ 2020.12)
