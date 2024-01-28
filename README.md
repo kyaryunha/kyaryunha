@@ -36,7 +36,7 @@ Developer who enjoys being focused
 
 ### 🏫 Education
 
-- **Hanyang University (2019.03 ~ CURRENT)**
+- **Hanyang University (2019.03 ~ 2024.02)**
   - Bachelor of Computer Software
   - Barami (Engineering Club) Vice President (2020)
 - Chungbuk Science High School (2016.03 ~ 2019.02)
