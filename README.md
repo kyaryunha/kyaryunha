@@ -24,7 +24,9 @@ Developer who enjoys being focused
 
 
 ### 🏢 Work Experience
-- Mapia Company, Backend Intern (2022.12 ~ 2023.06)
+- **Hyperithm, Software Engineer (2024.04 ~ )**
+  [개발자 채용 공고 홍보](https://hyperithm.career.greetinghr.com/positions) 레퍼럴 요청 환영
+- Mapiacompany, Backend Intern (2022.12 ~ 2023.06)
 - Emotic Box, Backend Engineer (2021.07 ~ 2022.02)
 - Aria-Edge, Intern (2020.04 ~ 2020.06), Contract (2021.01 ~ 2021.06)
 - Naver, Frontend Intern (2020.06 ~ 2020.12)
