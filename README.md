@@ -4,11 +4,12 @@ Developer who enjoys being focused
 ### 🥈 Competition / Awards
 **Algorithm**
 - **2021 ACM-ICPC Seoul Regional** (**16th**/73 Teams*)
+- **2017 Korea Olympiad in Informatics, Silver Award** (**29th**/200 Participants*)
 - **2020 UCPC, 4th Award** (**15th**/169 Teams*)
 - **2020 Google Codejam IO for Women, Top 150th(Earned Ticket)** (**115th**/2500 Participants)
+- 2024 Hyundai Mobis Algorithm Competition, Excellence Award (20th/50 Participants*)
 - 2020 Brandi CodenameB, Prize (**11th**/2300 Participants)
 - 2018 Nexon Youth Programming Challenge, Finalist (~**Top 50th**/5400 Participants)
-- **2017 Korea Olympiad in Informatics, Silver Award** (**29th**/200 Participants*)
 
 **Backend**
 - 2023 Furiosa AI Hackathon Grand Award (**1st**/9 Teams*)
